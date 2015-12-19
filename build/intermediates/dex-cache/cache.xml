@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Gursharnbir/Documents/AndroidProjects/CentennialPro/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Gursharnbir/Documents/AndroidProjects/CentennialPro/app/build/intermediates/pre-dexed/debug/classes-51dc45d6706f8677193e36fa407d6314bd67f6be.jar" />
+    </item>
+    <item
+        jar="/Users/Gursharnbir/Documents/AndroidProjects/CentennialPro/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/Gursharnbir/Documents/AndroidProjects/CentennialPro/app/build/intermediates/pre-dexed/debug/classes-098323726da7a69a64a7320a19e8e405b96d1358.jar" />
+    </item>
+    <item
+        jar="/Users/Gursharnbir/Documents/AndroidProjects/CentennialPro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Gursharnbir/Documents/AndroidProjects/CentennialPro/app/build/intermediates/pre-dexed/debug/classes-e307a42e85f20728c78d3999e2b54b5d5c5b76a8.jar" />
+    </item>
+    <item
+        jar="/Users/Gursharnbir/Documents/AndroidProjects/CentennialPro/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Gursharnbir/Documents/AndroidProjects/CentennialPro/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-9bb2e53fee09058236d7e10cdcb3febbe63db120.jar" />
+    </item>
+    <item
+        jar="/Users/Gursharnbir/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Gursharnbir/Documents/AndroidProjects/CentennialPro/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-88d0b3b43e78ea14524b82aea700f1f7c112ea5d.jar" />
+    </item>
+
+</items>
